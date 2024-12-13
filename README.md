@@ -59,11 +59,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-
 ![Screenshot 2024-10-19 195735](https://github.com/user-attachments/assets/3723340d-972e-4376-802c-73e8e93e8c60)
 
-### Name: KAILASH PRABHU.S
-### Register Number: 24013672
+
+
+### Name: SATHISH KUMAR .T
+### Register Number: 2400758
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
